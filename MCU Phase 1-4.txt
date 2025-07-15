@@ -37,4 +37,11 @@ The request to list all Marvel Cinematic Universe movies is quite expansive as t
 28. Doctor Strange in the Multiverse of Madness (2022)
 29. Thor: Love and Thunder (2022)
 30. Black Panther: Wakanda Forever (2022)
+
+**Phase 5:**
 31. Ant-Man and The Wasp: Quantumania (2023)
+32. Guardians of the Galaxy Vol. 3 (2023)
+33. The Marvels (2023)
+34. Deadpool & Wolverine (2024)
+35. Captain America: Brave New World (2025)
+36. Thunderbolts* (2025)
